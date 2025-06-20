@@ -3,7 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to right, #6a11cb, #2575fc);
+  background: linear-gradient(to right, #35026c, #2f76f0);
 }
 
 .login-form {
@@ -32,7 +32,7 @@
 
 .login-form button {
   width: 100%;
-  background-color: #2575fc;
+  background-color: #2575fd;
   color: #fff;
   padding: 14px;
   font-size: 16px;
