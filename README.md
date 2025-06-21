@@ -1,5 +1,5 @@
 
-💼 Job Application Tracker (MERN Stack)
+💼 **Job Application Tracker (MERN Stack)**
 
 A full-stack Job Application Tracker web application designed to help users organize and monitor their job applications efficiently. This project uses the MERN stack — MongoDB, Express.js, React.js, and Node.js — with secure JWT-based user authentication.
 
@@ -44,39 +44,6 @@ The project is divided into two main parts:
 
 * Backend: Handles user authentication, job data storage, and all API endpoints.
 * Frontend: Provides the UI for users to interact with the application and communicate with the backend via API calls.
-
-job-application-tracker/
-├── backend/
-│ ├── controllers/
-│ │ └── authController.js
-│ │ └── jobController.js
-│ ├── middleware/
-│ │ └── authMiddleware.js
-│ ├── models/
-│ │ └── User.js
-│ │ └── Job.js
-│ ├── routes/
-│ │ └── authRoutes.js
-│ │ └── jobRoutes.js
-│ ├── .env
-│ ├── server.js
-│
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── pages/
-│ │ │ └── Login.js
-│ │ │ └── Register.js
-│ │ │ └── Dashboard.js
-│ │ │ └── AddJob.js
-│ │ │ └── EditJob.js
-│ │ ├── components/
-│ │ │ └── JobCard.js
-│ │ ├── App.js
-│ │ ├── index.js
-│ ├── package.json
-│
-├── README.md
 
 ---
 
