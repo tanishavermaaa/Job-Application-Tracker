@@ -1,5 +1,5 @@
 
-✅ Job Application Tracker (MERN Stack)
+💼 Job Application Tracker (MERN Stack)
 
 A full-stack Job Application Tracker web application designed to help users organize and monitor their job applications efficiently. This project uses the MERN stack — MongoDB, Express.js, React.js, and Node.js — with secure JWT-based user authentication.
 
