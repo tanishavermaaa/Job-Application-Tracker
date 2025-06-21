@@ -1,11 +1,11 @@
 
-💼 **Job Application Tracker (MERN Stack)**
+#💼 **Job Application Tracker (MERN Stack)**
 
 A full-stack Job Application Tracker web application designed to help users organize and monitor their job applications efficiently. This project uses the MERN stack — MongoDB, Express.js, React.js, and Node.js — with secure JWT-based user authentication.
 
 ---
 
-🔍 Features
+#🔍 Features
 
 * User registration and login functionality (with JWT authentication)
 * Add new job applications with details (position, company, status)
@@ -17,7 +17,7 @@ A full-stack Job Application Tracker web application designed to help users orga
 
 ---
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 
 Frontend:
 
@@ -38,7 +38,7 @@ Backend:
 
 ---
 
-📁 Folder Structure
+#📁 Folder Structure
 
 The project is divided into two main parts:
 
@@ -47,7 +47,7 @@ The project is divided into two main parts:
 
 ---
 
-🎯 Installation and Setup
+#🎯 Installation and Setup
 
 ### Prerequisites:
 
@@ -70,7 +70,7 @@ The project is divided into two main parts:
 
 ---
 
-🌍 Deployment
+#🌍 Deployment
 
 The app is deployed using Render : https://job-frontend-vercel.onrender.com
 
