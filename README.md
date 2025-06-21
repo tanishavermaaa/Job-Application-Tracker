@@ -32,7 +32,7 @@ It is built with a **React frontend**, **Node.js/Express backend**, and **MongoD
 * React.js
 * React Router DOM
 * Axios
-* CSS (Plain CSS, no framework)
+* CSS 
 
 ### Backend:
 
